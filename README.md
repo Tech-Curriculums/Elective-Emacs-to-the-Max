@@ -28,3 +28,8 @@ http://www.braveclojure.com/basic-emacs/
 
 http://www.emacsbites.com/
 
+
+**vim to emacs guide**
+
+http://juanjoalvarez.net/es/detail/2014/sep/19/vim-emacsevil-chaotic-migration-guide/
+
