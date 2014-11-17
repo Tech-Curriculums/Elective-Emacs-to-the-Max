@@ -21,6 +21,7 @@ We will learn this environment for:
 
 ## Resources
 
+http://emacsrocks.com/
 
 http://tuhdo.github.io/emacs-tutor.html
 
