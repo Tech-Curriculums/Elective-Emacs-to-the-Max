@@ -21,6 +21,8 @@ We will learn this environment for:
 
 ## Resources
 
+http://www.jesshamrick.com/2012/09/10/absolute-beginners-guide-to-emacs/
+
 http://emacsrocks.com/
 
 http://tuhdo.github.io/emacs-tutor.html
